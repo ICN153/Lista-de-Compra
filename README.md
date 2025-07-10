@@ -1,6 +1,6 @@
-#Projeto Lista de Compras - Utilizado no Curso Objetos no JavaScript - Escola Front-End Alura
+#Projeto Lista de Compras - Utilizado no Curso Objetos no JavaScript.
 
-Neste arquivo encontram-se modelos de códigos que serão utilizados no decorrer do curso. 
+Neste arquivo encontram-se modelos de códigos que foram utilizados no decorrer do projeto. 
 
 Código modelo da li "Comprados":
 
