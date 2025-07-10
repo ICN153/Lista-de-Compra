@@ -5,8 +5,17 @@ html {
 }
 
 body {
-    font-family: 'Montserrat', 'sans-serif', 'Mansalva', cursive;
+  font-family: 'Montserrat', 'sans-serif', 'Mansalva', cursive;
+  background-image: url(../img/Gemini_Generated_Image_mv30cymv30cymv30.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;   /* ✅ Ocupa a tela toda */
+  background-attachment: fixed; /* opcional, dá efeito de fundo fixo */
+  min-height: 100vh; /* ocupa toda a altura da tela */
+  margin: 0;         /* remove margens do body */
 }
+
+
 
 h2, footer {
     font-family: 'Mansalva';
