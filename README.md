@@ -1,4 +1,4 @@
-#Projeto Lista de Compras - Utilizado no Curso Objetos no JavaScript.
+#Projeto Lista de Compras - Utilizado Objetos no JavaScript.
 
 Neste arquivo encontram-se modelos de códigos que foram utilizados no decorrer do projeto. 
 
